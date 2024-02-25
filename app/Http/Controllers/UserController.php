@@ -6,7 +6,9 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function index(){
-        return view('user');
+    public function index($id, $name){
+        return view('user')
+        ->with('id',$id)
+        ->with('name',$name);
     }
 }

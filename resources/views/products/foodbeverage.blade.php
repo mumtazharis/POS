@@ -30,7 +30,7 @@
                         
                         <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
                             <li class="nav-item">
-                                <a href="#" class="nav-link align-middle px-0">
+                                <a href="http://localhost/POS/public/home" class="nav-link align-middle px-0">
                                     <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">Home</span>
                                 </a>
                             </li>
@@ -40,25 +40,25 @@
                                     <i class="bi bi-cart3"></i> <span class="ms-1 d-none d-sm-inline">Products</span></a>
                                 <ul class="collapse nav flex-column ms-1" id="submenu2" data-bs-parent="#menu">
                                     <li class="w-100">
-                                        <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Food Beverage</span></a>
+                                        <a href="http://localhost/POS/public/category/food-beverage" class="nav-link px-0"> <span class="d-none d-sm-inline">Food Beverage</span></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Beauty Health</span></a>
+                                        <a href="http://localhost/POS/public/category/beauty-health" class="nav-link px-0"> <span class="d-none d-sm-inline">Beauty Health</span></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Home Care</span></a>
+                                        <a href="http://localhost/POS/public/category/home-care" class="nav-link px-0"> <span class="d-none d-sm-inline">Home Care</span></a>
                                     </li>
                                     <li>
-                                        <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Baby Kid</span></a>
+                                        <a href="http://localhost/POS/public/category/baby-kid" class="nav-link px-0"> <span class="d-none d-sm-inline">Baby Kid</span></a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="#" class="nav-link px-0 align-middle">
+                                <a href="http://localhost/POS/public/user/4/name/mumtaz" class="nav-link px-0 align-middle">
                                     <i class="fs-4 bi-person"></i> <span class="ms-1 d-none d-sm-inline">User</span> </a>
                             </li>
                             <li>
-                                <a href="#" class="nav-link px-0 align-middle">
+                                <a href="http://localhost/POS/public/penjualan" class="nav-link px-0 align-middle">
                                     <i class="bi bi-currency-dollar"></i> <span class="ms-1 d-none d-sm-inline">Penjualan</span> </a>
                             </li>
                         </ul>
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="col py-3">
-                    Content area...
+                    <h1>Halaman Food Beverage<h1>
                 </div>
             </div>
         </div>
